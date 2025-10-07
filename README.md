@@ -3,7 +3,7 @@
 ### Acknowledgments
 The Python code is from the short course "Attention in Transformers: Concepts and Code in PyTorch" on the DeepLearning.AI platform, available for free.  
 For more details, visit:  
-<>
+<https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
