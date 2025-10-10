@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as func
 
 
-## ------------------------------------------------------##
+## ------------------------------------------------------ ##
 class MaskedSelfAttention(nn.Module):
 
     def __init__(self, d_model = 2, row_dim = 0, col_dim = 1):
@@ -93,4 +93,3 @@ attention_percents   # print()
 
 ## ------------------------------------------------------##
 torch.matmul(attention_percents, maskedSelfAttention.W_v(encodings_matrix))
-
