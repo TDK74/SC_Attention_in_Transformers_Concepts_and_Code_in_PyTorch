@@ -1,5 +1,5 @@
 import torch
-import torch.nn
+import torch.nn as nn
 import torch.nn.functional as func
 
 
@@ -91,3 +91,4 @@ torch.manual_seed(42)
 multiHeadAttention = MultiHeadAttention(d_model = 2, row_dim = 0, col_dim = 1, num_heads = 2)
 
 multiHeadAttention(encodings_for_q, encodings_for_k, encodings_for_v)
+
