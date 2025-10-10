@@ -1,5 +1,5 @@
 import torch
-import torch.nn
+import torch.nn as nn
 import torch.nn.functional as func
 
 
@@ -93,3 +93,4 @@ attention_percents   # print()
 
 ## ------------------------------------------------------##
 torch.matmul(attention_percents, maskedSelfAttention.W_v(encodings_matrix))
+
