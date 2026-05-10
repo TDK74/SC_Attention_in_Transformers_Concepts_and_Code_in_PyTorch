@@ -1,9 +1,9 @@
 # Short Course: Attention in Transformers: Concepts and Code in PyTorch
 
 ### Acknowledgments
-The Python code is from the short course "Attention in Transformers: Concepts and Code in PyTorch" on the DeepLearning.AI platform, available for free.  
+The Python code is from the short course "Attention in Transformers: Concepts and Code in PyTorch" on the DeepLearning.AI platform. The course content is available for free, while the certificate and graded assessments require a paid subscription.  
 For more details, visit:  
-<https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/>
+<https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch/information>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
